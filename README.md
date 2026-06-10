@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # 💫 About Me:
 🔭 Building modern web applications with React and Next.js<br>👯 Open to collaborating on Front-End and UX-focused projects<br>🌱 Learning UX Design, AI tools and product thinking<br>💬 Ask me about React, JavaScript, Next.js, SEO and responsive UI<br>📫 Reach me at: carolinagotbeter@gmail.com<br>⚡ Fun fact: I traded fabric patterns for React components.
 
